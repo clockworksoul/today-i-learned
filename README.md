@@ -6,8 +6,8 @@ Many of these will be technical. Many of these will not.
 
 ## Go
 
-* [Generating a Hash From Files in a Path](generating-hash-of-a-path.md)
-* [Checking Whether a File Exists](check-whether-a-file-exists.md)
+* [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md)
+* [Checking Whether a File Exists](go/check-whether-a-file-exists.md)
 
 ## Life
 
