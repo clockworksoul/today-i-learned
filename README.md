@@ -4,6 +4,10 @@ A place for me to write down all of the little things I learn every day. This se
 
 Many of these will be technical. Many of these will not.
 
+## Kubernetes
+
+* [Installing TLS Certificates as a Kubernetes Secret](kubernetes/installing-ssl-certs.md)
+
 ## Go
 
 * [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md)
