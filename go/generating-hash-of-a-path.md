@@ -27,6 +27,15 @@ func Create(path string, hashAlgorithm string) (string, error) {
             return nil
         }
 
+        // Open the file for reading
+        file, err := os.Open(path)
+        if err != nil {
+            return err
+        }
+
+        // Make sure the file is closed when the function returns
+        defer file.Close()
+
         // Copy the file in the hash interface and check for any error
         if _, err := io.Copy(hash, file); err != nil {
             return "", err
