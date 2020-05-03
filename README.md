@@ -21,7 +21,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ## Management
 
-* [Amazon Leadership Principles](amazon-leadership-principles.md) (3 May 2020)
+* [Amazon Leadership Principles](management/amazon-leadership-principles.md) (3 May 2020)
 * [Stop Writing Code and Engineering in the Critical Path](management/stay-out-of-the-critical-path.md) (3 May 2020)
 
 ## SSH
