@@ -1,5 +1,7 @@
 # Generating a Hash From Files in a Path
 
+_Source: https://github.com/sger/go-hashdir/blob/master/hashdir.go (Heavily modified)_
+
 The `Walk` method from `path/filepath` walks the file tree rooted at root, calling `walkFn` for each file or directory in the tree, including root. All errors that arise visiting files and directories are filtered by `walkFn`. The files are walked in lexical order, which makes the output deterministic but means that for very large directories Walk can be inefficient. Walk does not follow symbolic links.
 
 ```go
@@ -56,5 +58,3 @@ func Create(path string, hashAlgorithm string) (string, error) {
 }
 
 ```
-
-_(Heavily modified from https://github.com/sger/go-hashdir/blob/master/hashdir.go)_

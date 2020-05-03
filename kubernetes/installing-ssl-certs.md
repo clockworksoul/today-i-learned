@@ -1,5 +1,7 @@
 # Installing TLS Certificates as a Kubernetes Secret
 
+_Source: Pieced this together myself_
+
 In this example I install TLS certificates as [Kubernetes secret resources](https://kubernetes.io/docs/concepts/configuration/secret/) into the `ambassador` namespace.
 
 ## The Certificate Files

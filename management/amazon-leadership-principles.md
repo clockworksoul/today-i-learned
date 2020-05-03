@@ -1,4 +1,5 @@
 # Amazon Leadership Principles
+
 _Source: https://www.amazon.jobs/en/principles_
 
 ## Customer Obsession
