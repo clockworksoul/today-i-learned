@@ -28,3 +28,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Break Out of a Stuck SSH Session](ssh/break-out-of-a-stuck-session.md) (30 April 2020)
 * [Exit SSH Automatically on Network Interruptions](ssh/exit-on-network-interruptions.md) (30 April 2020)
+
+## Terraform
+
+* [Terraform Plugin Basics](terraform/plugin-basics.md) (3 May 2020)
+* [Terraform Provider Plugin Development](terraform/provider-plugin-development.md) (3 May 2020)
