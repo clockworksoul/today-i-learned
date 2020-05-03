@@ -1,5 +1,7 @@
 # Banana Bread Recipe - 2lb Loaf (Bread Machine)
 
+_Source: modified from https://breaddad.com/bread-machine-banana-bread/_
+
 ## Ingredients
 
 * 1/2 Cup – Milk (warm)
@@ -31,5 +33,3 @@ After removing the bread from the bread pan, place the bread on a cooling rack. 
 Don’t forget to remove the mixing paddle if it is stuck in the bread. Use oven mitts as the mixing paddle could be hot.
 You should allow the banana bread to completely cool before cutting. This can take up to 2 hours. Otherwise, the banana bread will break (crumble) more easily when cut.
 
-
-_(modified from https://breaddad.com/bread-machine-banana-bread/)_
