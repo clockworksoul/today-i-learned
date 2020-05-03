@@ -4,7 +4,6 @@ A place for me to write down all of the little things I learn every day. This se
 
 Many of these will be technical. Many of these will not.
 
-
 ## Baking
 
 * [Banana Bread Recipe - 2lb Loaf (Bread Machine)](baking/banana-bread.md)
@@ -22,3 +21,7 @@ Many of these will be technical. Many of these will not.
 
 * [Break Out of a Stuck SSH Session](ssh/break-out-of-a-stuck-session.md)
 * [Exit SSH Automatically on Network Interruptions](ssh/exit-on-network-interruptions.md)
+
+## Management
+
+* [Stop Writing Code and Engineering in the Critical Path](management/stay-out-of-the-critical-path.md)
