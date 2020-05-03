@@ -10,8 +10,7 @@ Which brings me to my next point.
 
 ## You Will Be Advised to Stop Writing Code or Engineering
 
-| |
-|-|
+|:---:|
 | ✨ *FUCK THAT.* ✨ |
 
 Everybody’s favorite hobby is hassling new managers about whether or not they’ve stopped writing code yet, and not letting up until they say that they have. This is a terrible, horrible, no-good VERY bad idea that seems like it must originally have been a botched repeating of the correct advice, which is:
