@@ -4,24 +4,27 @@ A place for me to write down all of the little things I learn every day. This se
 
 Many of these will be technical. Many of these will not.
 
+Behold my periodic learnings, and judge me for my ignorance.
+
 ## Baking
 
-* [Banana Bread Recipe - 2lb Loaf (Bread Machine)](baking/banana-bread.md)
+* [Banana Bread Recipe - 2lb Loaf (Bread Machine)](baking/banana-bread.md) (23 April 2020)
 
 ## Go
 
-* [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md)
-* [Checking Whether a File Exists](go/check-whether-a-file-exists.md)
+* [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
+* [Checking Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
 
 ## Kubernetes
 
-* [Installing TLS Certificates as a Kubernetes Secret](kubernetes/installing-ssl-certs.md)
-
-## SSH
-
-* [Break Out of a Stuck SSH Session](ssh/break-out-of-a-stuck-session.md)
-* [Exit SSH Automatically on Network Interruptions](ssh/exit-on-network-interruptions.md)
+* [Installing TLS Certificates as a Kubernetes Secret](kubernetes/installing-ssl-certs.md) (29 April 2020)
 
 ## Management
 
-* [Stop Writing Code and Engineering in the Critical Path](management/stay-out-of-the-critical-path.md)
+* [Amazon Leadership Principles](amazon-leadership-principles.md) (3 May 2020)
+* [Stop Writing Code and Engineering in the Critical Path](management/stay-out-of-the-critical-path.md) (3 May 2020)
+
+## SSH
+
+* [Break Out of a Stuck SSH Session](ssh/break-out-of-a-stuck-session.md) (30 April 2020)
+* [Exit SSH Automatically on Network Interruptions](ssh/exit-on-network-interruptions.md) (30 April 2020)
