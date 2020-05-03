@@ -1,4 +1,4 @@
-# Provider Plugins
+# Terraform Provider Plugin Development
 
 _Source: https://www.terraform.io/docs/plugins/provider.html_
 

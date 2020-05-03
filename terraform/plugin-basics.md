@@ -1,4 +1,4 @@
-# Developing Terraform Plugins
+# Terraform Plugin Basics
 
 _Sources: https://www.terraform.io/docs/plugins/basics.html_
 
