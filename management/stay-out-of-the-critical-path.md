@@ -1,6 +1,6 @@
 # Stop Writing Code and Engineering in the Critical Path
 
-_Source: https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/
+_Source: https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/_
 
 There is an enormous demand for technical engineering leaders — far more demand than supply. The most common hackaround is to pair a people manager (who can speak the language and knows the concepts, but stopped engineering ages ago) with a tech lead, and make them collaborate to co-lead the team. This unwieldy setup often works pretty well.
 

@@ -12,8 +12,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ## Go
 
-* [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
 * [Checking Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
+* [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
 
 ## Kubernetes
 
