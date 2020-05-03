@@ -49,4 +49,4 @@ The name `MyPlugin` is a placeholder for the struct type that represents your pl
 
 To test your plugin, the easiest method is to copy your terraform binary to `$GOPATH/bin` and ensure that this copy is the one being used for testing. `terraform init` will search for plugins within the same directory as the `terraform` binary, and `$GOPATH/bin` is the directory into which `go install` will place the plugin executable.
 
-Next Page: [Terraform Provider Plugins](provider-plugins.md)
+Next Page: [Terraform Provider Plugin Development](provider-plugin-development.md)
