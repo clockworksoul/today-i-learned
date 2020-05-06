@@ -15,6 +15,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Bash Shell Prompts](bash/bash-shell-prompts.md) (6 May 2020)
 * [Bash Shell Prompt Statement Variables](bash/prompt-statement-variables.md) (6 May 2020)
 
+### Gardening
+
+* [Why Are the Cotyledon Leaves on a Tomato Plant Falling Off?](gardening/cotyledon-leaves.md) (5 May 2020)
+
 ### Go
 
 * [Checking Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
