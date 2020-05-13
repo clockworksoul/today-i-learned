@@ -15,4 +15,4 @@
 
 * [The Best Chocolate Chip Cookie Recipe Ever](https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/) (May 9)
 
-
+* [Sealioning](https://www.urbandictionary.com/define.php?term=Sealioning) (May 13)
