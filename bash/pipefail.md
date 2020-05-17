@@ -2,8 +2,6 @@
 
 _Source: [[1]](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)_
 
-Often times developers go about writing bash scripts the same as writing code in a higher-level language. This is a big mistake as higher-level languages offer safeguards that are not present in bash scripts by default. For example, a Ruby script will throw an error when trying to read from an uninitialized variable, whereas a bash script won’t. In this article, we’ll look at how we can improve on this.
-
 The bash shell comes with several builtin commands for modifying the behavior of the shell itself. We are particularly interested in the `set` builtin, as this command has several options that will help us write safer scripts. I hope to convince you that it’s a really good idea to add `set -euxo pipefail` to the beginning of all your future bash scripts.
 
 ## `set -e`
