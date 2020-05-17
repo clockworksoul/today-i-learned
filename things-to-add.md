@@ -18,3 +18,5 @@
 * [Sealioning](https://www.urbandictionary.com/define.php?term=Sealioning) (May 13)
 
 * [Pipefail](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/) (May 14)
+
+* [The Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (May 17)
