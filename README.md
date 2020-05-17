@@ -14,7 +14,6 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Bash Shell Prompts](bash/bash-shell-prompts.md) (6 May 2020)
 * [Bash Shell Prompt Statement Variables](bash/prompt-statement-variables.md) (6 May 2020)
-* [Create a Cron Job Using Bash Without the Interactive Editor](bash/create-cron-without-an-editor.md) (7 May 2020)
 * [Move to the Root of a Git Directory](bash/groot.md) (6 May 2020)
 * [One-Liner to Calculate the md5sum of a Path in Linux](bash/md5sum-of-a-path.md) (7 May 2020)
 
@@ -24,8 +23,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### Go
 
-* [Checking Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
-* [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
+* [Check Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
+* [Generate a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
 
 ### History
 
@@ -33,7 +32,12 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### Kubernetes
 
-* [Installing TLS Certificates as a Kubernetes Secret](kubernetes/installing-ssl-certs.md) (29 April 2020)
+* [Install TLS Certificates as a Kubernetes Secret](kubernetes/installing-ssl-certs.md) (29 April 2020)
+
+### Linux
+
+* [Create a Cron Job Using Bash Without the Interactive Editor](linux/create-cron-without-an-editor.md) (7 May 2020)
+* [Create a Linux Service with systemd](linux/creating-a-linux-service-with-systemd.md) (8 May 2020)
 
 ### SSH
 
@@ -53,5 +57,5 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### TLS/SSL
 
-* [Dissecting an SSL Certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
+* [Dissect an SSL Certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
 * [Use Hashicorp Vault to Build Your Own Certificate Authority (CA)](tls+ssl/use-vault-as-a-ca.md) (6 May 2020)
