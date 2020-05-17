@@ -2,7 +2,7 @@
 
 _Source: [Stack Overflow](https://stackoverflow.com/questions/878600/how-to-create-a-cron-job-using-bash-automatically-without-the-interactive-editor)_
 
-To create a cron job without using the interactive editor, you do one of the followsing:
+To create a cron job without using the interactive editor, you do one of the following:
 
 ### Generate and install a new crontab file
 
