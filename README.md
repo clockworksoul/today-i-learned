@@ -62,4 +62,4 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### Vocabulary
 
-* [Sealioning](vocabulary/sealiuoning.md) (13 May 2020)
+* [Sealioning](vocabulary/sealioning.md) (13 May 2020)
