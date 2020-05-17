@@ -14,6 +14,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Bash Shell Prompts](bash/bash-shell-prompts.md) (6 May 2020)
 * [Bash Shell Prompt Statement Variables](bash/prompt-statement-variables.md) (6 May 2020)
+* [Create a Cron Job Using Bash Without the Interactive Editor](bash/create-cron-without-an-editor.md) (7 May 2020)
 * [Move to the Root of a Git Directory](bash/groot.md) (6 May 2020)
 * [One-Liner to Calculate the md5sum of a Path in Linux](bash/md5sum-of-a-path.md) (7 May 2020)
 
@@ -39,11 +40,6 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Break Out of a Stuck SSH Session](ssh/break-out-of-a-stuck-session.md) (30 April 2020)
 * [Exit SSH Automatically on Network Interruptions](ssh/exit-on-network-interruptions.md) (30 April 2020)
 
-### TLS/SSL
-
-* [Dissecting an SSL Certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
-* [Use Hashicorp Vault to Build Your Own Certificate Authority (CA)](tls+ssl/use-vault-as-a-ca.md) (6 May 2020)
-
 ### Team
 
 * [Amazon Leadership Principles](team/amazon-leadership-principles.md) (3 May 2020)
@@ -54,3 +50,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Terraform Plugin Basics](terraform/plugin-basics.md) (3 May 2020)
 * [Terraform Provider Plugin Development](terraform/provider-plugin-development.md) (3 May 2020)
+
+### TLS/SSL
+
+* [Dissecting an SSL Certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
+* [Use Hashicorp Vault to Build Your Own Certificate Authority (CA)](tls+ssl/use-vault-as-a-ca.md) (6 May 2020)
