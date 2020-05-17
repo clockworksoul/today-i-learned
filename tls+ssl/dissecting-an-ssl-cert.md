@@ -1,4 +1,4 @@
-# Dissecting an SSL Certificate
+# Dissecting a TLS/SSL Certificate
 
 _Sources: [[1]](https://jvns.ca/blog/2017/01/31/whats-tls/), [[2]](https://en.wikipedia.org/wiki/Transport_Layer_Security), [[3]](https://en.wikipedia.org/wiki/X.509)_
 
@@ -20,7 +20,7 @@ There are several versions of these protocols, but in a nutshell newer versions 
 | TLS 1.2  | 2008        |                               |
 | TLS 1.3  | 2018        |                               |
 
-## What's A Certificate?
+## What's a Certificate?
 
 Suppose I'm checking my email at `https://mail.google.com`
 
@@ -74,11 +74,10 @@ DAmf19A=
 
 We're looking at [X.509](https://en.wikipedia.org/wiki/X.509), a standard format for describing public key certificates.
 
-
 Our next mission is to parse this certificate. We do that by piping the data to `openssl x509`:
 
-```
-$ openssl s_client -connect mail.google.com:443 | openssl x509 -in /dev/stdin -text
+```bash
+$ openssl s_client -connect mail.google.com:443 | openssl x509 -in /dev/stdin -text -noout
 
 depth=2 OU = GlobalSign Root CA - R2, O = GlobalSign, CN = GlobalSign
 verify return:1
@@ -128,7 +127,7 @@ Some of the most useful bits (to us) are:
 * The `Subject Public Key Info` section tells us the **public key** that we're going to use to communicate with `mail.google.com`. [Public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) is fascinating, but it's outside the scope of this summary.
 * The signature, which can be used to verify the authenticity of the certificate. Without this, anybody could simply issue a certificate for any domain they wanted!
 
-# Certificate Signing
+## Certificate Signing
 
 Every certificate on the internet is basically two parts put together:
 
@@ -154,7 +153,7 @@ The `mail.google.com` certificate is:
 
 I have an `GlobalSign_Root_CA_-_R2.pem` file on my computer, which is probably why my computer trusts this certificate.
 
-# What Does Getting a Certificate Issued Look Like?
+## What Does Getting a Certificate Issued Look Like?
 
 So when you get a certificate issued, basically how it works is:
 
