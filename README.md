@@ -25,6 +25,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Checking Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
 * [Generating a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
 
+### History
+
+* [The Late Bronze Age Collapse](history/the-late-bronze-age-collapse.md) (17 May 2020)
+
 ### Kubernetes
 
 * [Installing TLS Certificates as a Kubernetes Secret](kubernetes/installing-ssl-certs.md) (29 April 2020)
