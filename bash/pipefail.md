@@ -1,6 +1,6 @@
 # Safer Bash Scripts With `set -euxo pipefail`
 
-_Source: [[1]](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)_
+_Source: [Safer bash scripts with 'set -euxo pipefail'](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)_
 
 The bash shell comes with several builtin commands for modifying the behavior of the shell itself. We are particularly interested in the `set` builtin, as this command has several options that will help us write safer scripts. I hope to convince you that it’s a really good idea to add `set -euxo pipefail` to the beginning of all your future bash scripts.
 
@@ -263,9 +263,9 @@ echo "bar"
 # bar
 ```
 
-That’s it for the `-x` option. It’s pretty straightforward, but can be a great help for debugging. Next up, we’ll look at an option I had never heard of before that was suggested by a reader of this blog.
+That’s it for the `-x` option. It’s pretty straightforward, but can be a great help for debugging.
 
-## Reader suggestion: `set -E`
+## `set -E`
 
 Traps are pieces of code that fire when a bash script catches certain signals. Aside from the usual signals (e.g. `SIGINT`, `SIGTERM`, ...), traps can also be used to catch special bash signals like `EXIT`, `DEBUG`, `RETURN`, and `ERR`. However, reader Kevin Gibbs pointed out that using `-e` without `-E` will cause an `ERR` trap to not fire in certain scenarios.
 
@@ -321,7 +321,3 @@ echo "bar"
 ```
 
 The documentation states that `-E` needs to be set if we want the `ERR` trap to be inherited by shell functions, command substitutions, and commands that are executed in a subshell environment. The `ERR` trap is normally not inherited in such cases.
-
-## Conclusion
-
-I hope this post showed you why using set `-euxo pipefail` (or `set -Eeuxo pipefail`) is such a good idea. If you have any other options you want to suggest, then please let me know and I’ll be happy to add them to this list.
