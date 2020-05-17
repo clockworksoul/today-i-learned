@@ -59,3 +59,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Dissect a TLS+SSL Certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
 * [Use Hashicorp Vault to Build Your Own Certificate Authority (CA)](tls+ssl/use-vault-as-a-ca.md) (6 May 2020)
+
+### Vocabulary
+
+* [Sealioning](vocabulary/sealiuoning.md) (13 May 2020)
