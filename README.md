@@ -48,3 +48,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Terraform Plugin Basics](terraform/plugin-basics.md) (3 May 2020)
 * [Terraform Provider Plugin Development](terraform/provider-plugin-development.md) (3 May 2020)
+
+### Vault
+
+* [Use Hashicorp Vault to Build Your Own Certificate Authority (CA)](vault/use-vault-as-a-ca.md) (6 May 2020)
