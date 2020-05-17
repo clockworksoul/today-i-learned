@@ -15,6 +15,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Bash Shell Prompts](bash/bash-shell-prompts.md) (6 May 2020)
 * [Bash Shell Prompt Statement Variables](bash/prompt-statement-variables.md) (6 May 2020)
 * [Move to the Root of a Git Directory](bash/groot.md) (6 May 2020)
+* [One-Liner to Calculate the md5sum of a Path in Linux](bash/md5sum-of-a-path.md) (7 May 2020)
 
 ### Gardening
 
