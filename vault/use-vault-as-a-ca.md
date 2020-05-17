@@ -135,7 +135,7 @@ $ vault write -format=json pki/root/sign-intermediate csr=@pki_intermediate.csr 
         | jq -r '.data.certificate' > intermediate.cert.pem
 ```
 
-Once the CSR is signed and the root CA returns a certificate, it can be imported back into Vault.
+5. Once the CSR is signed and the root CA returns a certificate, it can be imported back into Vault.
 
 ```bash
 $ vault write pki_int/intermediate/set-signed certificate=@intermediate.cert.pem
@@ -156,7 +156,7 @@ Here are a few noteworthy parameters:
 
 In this step, you are going to create a role named `example-dot-com`.
 
-1. Create a role named `example-dot-com` which allows subdomains.
+Create a role named `example-dot-com` which allows subdomains.
 
 ```bash
 $ vault write pki_int/roles/example-dot-com \
