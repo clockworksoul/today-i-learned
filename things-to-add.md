@@ -8,3 +8,4 @@
 * [Lastlog](https://en.wikipedia.org/wiki/Lastlog) (May 23)
 
 * [Sparse files](https://stackoverflow.com/questions/43126760/what-is-a-sparse-file-and-why-do-we-need-it) (May 23)
+  * `ls -lhs`
