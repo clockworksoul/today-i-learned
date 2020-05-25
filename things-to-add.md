@@ -9,10 +9,11 @@
 
 * [Some of these Linux productivity tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) (May 20)
 
+* [Terraform custom input validation rules](https://www.terraform.io/docs/configuration/variables.html#custom-validation-rules) (May 20)
+
 * [Lastlog](https://en.wikipedia.org/wiki/Lastlog) (May 23)
 
 * [Sparse files](https://stackoverflow.com/questions/43126760/what-is-a-sparse-file-and-why-do-we-need-it) (May 23)
   * `ls -lhs`
 
 * [Mocking time and testing event loops in Go](https://dmitryfrank.com/articles/mocking_time_in_go) (May 24)
-
