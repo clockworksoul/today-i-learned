@@ -6,9 +6,7 @@ Many of these will be technical. Many of these will not.
 
 Behold my periodic learnings, and judge me for my ignorance.
 
-### Baking
-
-* [Banana Bread Recipe - 2lb Loaf (Bread Machine)](baking/banana-bread.md) (23 April 2020)
+## Tech and Team
 
 ### Bash
 
@@ -18,18 +16,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [One-Liner to Calculate the md5sum of a Path in Linux](bash/md5sum-of-a-path.md) (7 May 2020)
 * [Safer Bash Scripts With `set -euxo pipefail`](bash/pipefail.md) (14 May 2020)
 
-### Gardening
-
-* [Why Are the Cotyledon Leaves on a Tomato Plant Falling Off?](gardening/cotyledon-leaves.md) (5 May 2020)
-
 ### Go
 
 * [Check Whether a File Exists](go/check-whether-a-file-exists.md) (27 April 2020)
 * [Generate a Hash From Files in a Path](go/generating-hash-of-a-path.md) (27 April 2020)
-
-### History
-
-* [The Late Bronze Age Collapse](history/the-late-bronze-age-collapse.md) (17 May 2020)
 
 ### Kubernetes
 
@@ -62,6 +52,20 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Dissect a TLS+SSL Certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
 * [Use Hashicorp Vault to Build Your Own Certificate Authority (CA)](tls+ssl/use-vault-as-a-ca.md) (6 May 2020)
+
+## Non-work Things
+
+### Baking
+
+* [Banana Bread Recipe - 2lb Loaf (Bread Machine)](baking/banana-bread.md) (23 April 2020)
+
+### Gardening
+
+* [Why Are the Cotyledon Leaves on a Tomato Plant Falling Off?](gardening/cotyledon-leaves.md) (5 May 2020)
+
+### History
+
+* [The Late Bronze Age Collapse](history/the-late-bronze-age-collapse.md) (17 May 2020)
 
 ### Vocabulary
 
