@@ -1,6 +1,6 @@
 # Terraform Custom Variable Validation Rules
 
-_Sources: [[1]](https://github.com/hashicorp/terraform/issues/2847#issuecomment-573252616), [[2]](https://www.terraform.io/docs/configuration/variables.html#custom-validation-rules)
+_Sources: [[1]](https://github.com/hashicorp/terraform/issues/2847#issuecomment-573252616), [[2]](https://www.terraform.io/docs/configuration/variables.html#custom-validation-rules)_
 
 _**Note: As of today (25 May 2020) this feature is considered experimental and is subject to breaking changes even in minor releases. We welcome your feedback, but cannot recommend using this feature in production modules yet.**_
 
