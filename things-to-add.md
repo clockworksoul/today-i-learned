@@ -2,10 +2,17 @@
 
 * [The Best Chocolate Chip Cookie Recipe Ever](https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/) (May 9)
 
+* [`socat`](https://medium.com/@copyconstruct/socat-29453e9fc8a6) (May 15)
+
 * [`osascript` is a thing on MacOS](https://ss64.com/osx/osascript.html) (May 18)
    * [So is the BELL character](https://superuser.com/questions/806511/how-can-i-ring-the-audio-bell-within-a-bash-script-running-under-gnu-screen)
+
+* [Some of these Linux productivity tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) (May 20)
 
 * [Lastlog](https://en.wikipedia.org/wiki/Lastlog) (May 23)
 
 * [Sparse files](https://stackoverflow.com/questions/43126760/what-is-a-sparse-file-and-why-do-we-need-it) (May 23)
   * `ls -lhs`
+
+* [Mocking time and testing event loops in Go](https://dmitryfrank.com/articles/mocking_time_in_go) (May 24)
+
