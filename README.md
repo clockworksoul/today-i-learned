@@ -31,7 +31,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Create a cron job using bash without the interactive editor](linux/create-cron-without-an-editor.md) (7 May 2020)
 * [Create a Linux service with systemd](linux/creating-a-linux-service-with-systemd.md) (8 May 2020)
-* [The `socat` (SOcket CAT) command](linux/socat.md) (15 May 2020)
+* [The socat (SOcket CAT) command](linux/socat.md) (15 May 2020)
 
 ### SSH
 
