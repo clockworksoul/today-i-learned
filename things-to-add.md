@@ -18,7 +18,7 @@
 
 * [Instrumentation in Go](https://gbws.io/articles/instrumentation-in-go/)
 
-* Thoughts on Scrum[1](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)[2](https://iism.org/article/agile-scrum-is-not-working-51)
+* Thoughts on Scrum [[1]](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)[[2]](https://iism.org/article/agile-scrum-is-not-working-51)
 
 * [Chesterton's Fence](https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence/?rf=1)
 
