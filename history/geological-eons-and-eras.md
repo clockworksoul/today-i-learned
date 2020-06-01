@@ -10,7 +10,7 @@ The Cenozoic (meaning "new life") Era is the current and most recent of the thre
 
 The Cenozoic is also known as the **Age of Mammals**, because the extinction of many groups allowed mammals to greatly diversify so that large mammals dominated the Earth. The continents also moved into their current positions during this era.
 
-### [Mesozoic Era](https://en.wikipedia.org/wiki/Mesozoic)
+### [Mesozoic Era](https://en.wikipedia.org/wiki/Mesozoic) (252 to 66 Mya)
 
 The Mesozoic ("middle life") Era is an interval of geological time from about 252 to 66 million years ago. It is also called the **Age of Reptiles**.
 
