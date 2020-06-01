@@ -28,6 +28,5 @@
 
 * [Hexagonal Architecture](https://eskavision.com/hexagonal-architecture/)
 
-* Geologic Eras ([Cenozoic](https://en.wikipedia.org/wiki/Cenozoic)/[Mesozoic](https://en.wikipedia.org/wiki/Mesozoic)/[Paleozoic](https://en.wikipedia.org/wiki/Paleozoic)) (June 1)
 
 
