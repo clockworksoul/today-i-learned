@@ -28,5 +28,5 @@
 
 * [Hexagonal Architecture](https://eskavision.com/hexagonal-architecture/)
 
-
+* [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/) (June 2)
 
