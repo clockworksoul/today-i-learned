@@ -31,3 +31,5 @@
 * [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/) (June 2)
 
 * [Qualified immunity is bullshit](https://theappeal.org/qualified-immunity-explained/) (June 5)
+
+* [Repairing and recovering broken git repositories](https://git.seveas.net/repairing-and-recovering-broken-git-repositories.html) (June 6)
