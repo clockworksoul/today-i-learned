@@ -33,3 +33,5 @@
 * [Qualified immunity is bullshit](https://theappeal.org/qualified-immunity-explained/) (June 5)
 
 * [Repairing and recovering broken git repositories](https://git.seveas.net/repairing-and-recovering-broken-git-repositories.html) (June 6)
+
+* https://gohugo.io/getting-started/quick-start/ (June 7)
