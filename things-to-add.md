@@ -35,3 +35,11 @@
 * [Repairing and recovering broken git repositories](https://git.seveas.net/repairing-and-recovering-broken-git-repositories.html) (June 6)
 
 * https://gohugo.io/getting-started/quick-start/ (June 7)
+
+* https://tpaschalis.github.io/goroutines-size/ (June 8)
+
+* https://gbws.io/articles/instrumentation-in-go/ (June 9)
+
+* https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592 (June 10)
+
+* https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/ (June 12)
