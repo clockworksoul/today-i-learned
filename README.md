@@ -34,6 +34,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Create a Linux service with systemd](linux/creating-a-linux-service-with-systemd.md) (8 May 2020)
 * [The socat (SOcket CAT) command](linux/socat.md) (15 May 2020)
 * [The lastlog utility](linux/lastlog.md) (23 May 2020)
+* [Sparse files](linux/sparse-files.md) (23 May 2020)
 
 ### Mac
 
@@ -41,7 +42,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### Miscellaneous
 
-* [Install and set up the Hugo static site generator](misc/hugo-quickstart.md) (6 June 2020)
+* [Install and set up the Hugo static site generator](misc/hugo-quickstart.md) (7 June 2020)
+* [Chesterton's Fence](misc/chestertons-fence.md) (27 May 2020)
 
 ### SSH
 
@@ -72,6 +74,7 @@ Non-work things: baking, gardening, and random cool trivia.
 ### Baking
 
 * [Banana bread recipe - 2lb loaf (Bread Machine)](baking/banana-bread.md) (23 April 2020)
+* [The Best Chocolate Chip Cookie Recipe Ever](baking/best-chocolate-chip-cookies.md) (9 May 2020)
 
 ### Gardening
 
