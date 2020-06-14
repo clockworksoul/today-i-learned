@@ -17,6 +17,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Move to the root of a Git directory](bash/groot.md) (6 May 2020)
 * [One-liner to calculate the md5sum of a Linux path](bash/md5sum-of-a-path.md) (7 May 2020)
 * [Safer bash scripts with `set -euxo pipefail`](bash/pipefail.md) (14 May 2020)
+* [Ring the audio bell](bash/ring-the-audio-bell.md) (18 May 2020)
 
 ### Go
 
@@ -32,6 +33,15 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Create a cron job using bash without the interactive editor](linux/create-cron-without-an-editor.md) (7 May 2020)
 * [Create a Linux service with systemd](linux/creating-a-linux-service-with-systemd.md) (8 May 2020)
 * [The socat (SOcket CAT) command](linux/socat.md) (15 May 2020)
+* [The lastlog utility](linux/lastlog.md) (23 May 2020)
+
+### Mac
+
+* [The osascript command is a thing](mac/osascript.md) (18 May 2020)
+
+### Miscellaneous
+
+* [Install and set up the Hugo static site generator](misc/hugo-quickstart.md) (6 June 2020)
 
 ### SSH
 
