@@ -25,7 +25,3 @@
 * https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592 (June 10)
 
 * https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/ (June 12)
-
-* https://medium.com/@lizrice/non-privileged-containers-based-on-the-scratch-image-a80105d6d341 (June 15)
-
-* https://www.terraform.io/docs/providers/time/index.html (June 15)

@@ -19,6 +19,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Safer bash scripts with `set -euxo pipefail`](bash/pipefail.md) (14 May 2020)
 * [Ring the audio bell](bash/ring-the-audio-bell.md) (18 May 2020)
 
+### Containers
+
+* [Non-privileged containers based on the scratch image](containers/non-privileged-containers-based-on-the-scratch-image.md) (15 June 2020)
+
 ### Go
 
 * [Check whether a file exists](go/check-whether-a-file-exists.md) (27 April 2020)
