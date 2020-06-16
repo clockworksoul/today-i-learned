@@ -1,6 +1,6 @@
 # Terraform Time Provider
 
-_Source: [The Terraform Docs](https://www.terraform.io/docs/providers/time/index.html)
+_Source: [The Terraform Docs](https://www.terraform.io/docs/providers/time/index.html)_
 
 The time provider is used to interact with time-based resources. The provider itself has no configuration options.
 
