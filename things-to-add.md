@@ -12,10 +12,6 @@
 
 * [Understanding gRPC, OpenAPI and REST and when to use them](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them) (May 29)
 
-* [Hexagonal Architecture](https://eskavision.com/hexagonal-architecture/) (May 30)
-
-  * It's just [inversion of control](https://stackoverflow.com/questions/3058/what-is-inversion-of-control) taken to its logical architectural conclusion.
-
 * [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/) (June 2)
 
 * [Qualified immunity is bullshit](https://theappeal.org/qualified-immunity-explained/) (June 5)

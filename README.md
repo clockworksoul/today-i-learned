@@ -50,6 +50,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Break out of a stuck SSH session](ssh/break-out-of-a-stuck-session.md) (30 April 2020)
 * [Exit SSH automatically on network interruptions](ssh/exit-on-network-interruptions.md) (30 April 2020)
 
+### Software Architecture
+
+* [Hexagonal Architecture](software-architecture/hexagonal-architecture.md) (30 May 2020)
+
 ### Team
 
 * [Amazon leadership principles](team/amazon-leadership-principles.md) (3 May 2020)
