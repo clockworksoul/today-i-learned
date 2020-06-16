@@ -52,7 +52,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### Software Architecture
 
-* [Hexagonal Architecture](software-architecture/hexagonal-architecture.md) (30 May 2020)
+* [Hexagonal architecture](software-architecture/hexagonal-architecture.md) (30 May 2020)
 
 ### Team
 
@@ -65,6 +65,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Custom Terraform module variable validation rules](terraform/custom-validation-rules.md) (20 May 2020)
 * [Terraform plugin basics](terraform/plugin-basics.md) (3 May 2020)
 * [Terraform provider plugin development](terraform/provider-plugin-development.md) (3 May 2020)
+* [Terraform time provider](terraform/time-provider.md) (15 June 2020)
 
 ### TLS/SSL
 
