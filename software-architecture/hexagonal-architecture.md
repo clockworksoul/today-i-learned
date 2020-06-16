@@ -67,9 +67,7 @@ As we have seen, the elements of the architecture are:
   * Driver Adapters ==> use the drivers ports
   * Driven Adapters ==> implement the driven ports
 
-## Hexagon Implementation
-
-![Figure 2](https://eskavision.com/wp-content/uploads/2020/04/hexagonal-architecture.png)
+## A Basic Implementation
 
 ### Domain
 
