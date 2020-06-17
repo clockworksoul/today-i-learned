@@ -27,3 +27,5 @@
 * https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/ (June 12)
 
 * https://josebrowne.com/on-coding-ego-and-attention/ (June 17)
+
+* [Modern Python Dictionaries](https://www.youtube.com/watch?v=npw4s1QTmPg) (June 17)
