@@ -29,3 +29,5 @@
 * https://josebrowne.com/on-coding-ego-and-attention/ (June 17)
 
 * [Modern Python Dictionaries](https://www.youtube.com/watch?v=npw4s1QTmPg) (June 17)
+
+* https://en.wikipedia.org/wiki/Voronoi_diagram (June 17)
