@@ -25,3 +25,5 @@
 * https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592 (June 10)
 
 * https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/ (June 12)
+
+* https://josebrowne.com/on-coding-ego-and-attention/ (June 17)
