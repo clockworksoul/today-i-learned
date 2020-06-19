@@ -32,4 +32,6 @@
 
 * https://en.wikipedia.org/wiki/Voronoi_diagram (June 17)
 
+* https://www.hashicorp.com/blog/ingress-gateways-in-hashicorp-consul-1-8/ (June 18)
+
 * https://www.reddit.com/r/golang/comments/h8yqql/just_found_that_golang_has_a_gopher_design_guide/ (June 19)
