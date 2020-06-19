@@ -31,3 +31,5 @@
 * [Modern Python Dictionaries](https://www.youtube.com/watch?v=npw4s1QTmPg) (June 17)
 
 * https://en.wikipedia.org/wiki/Voronoi_diagram (June 17)
+
+* https://www.reddit.com/r/golang/comments/h8yqql/just_found_that_golang_has_a_gopher_design_guide/ (June 19)
