@@ -59,6 +59,14 @@ For multi-line AppleScript you can use ¬ as a new line continuation character, 
 
 Examples
 
+Display a notificaton:
+
+`osascript -e 'display notification "hello world!"'`
+
+Display a notification with title:
+
+`osascript -e 'display notification "hello world!" with title "This is the title"'`
+
 Open or switch to Safari:
 
 `$ osascript -e 'tell app "Safari" to activate'`
