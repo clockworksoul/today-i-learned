@@ -43,11 +43,14 @@ Behold my periodic learnings, and judge me for my ignorance.
 ### Mac
 
 * [The osascript command is a thing](mac/osascript.md) (18 May 2020)
+* [Installing flock(1) on Mac](mac/installing-flock-on-mac.md) (21 June 2020)
 
 ### Miscellaneous
 
 * [Install and set up the Hugo static site generator](misc/hugo-quickstart.md) (7 June 2020)
+* [Back-of-the-envelope estimation hacks](misc/back-of-the-envelope-estimation.md) (25 May 2020)
 * [Chesterton's Fence](misc/chestertons-fence.md) (27 May 2020)
+* [Calculating IOPS](misc/calculating-iops.md) (21 June 2020)
 
 ### SSH
 
@@ -93,6 +96,10 @@ Non-work things: baking, gardening, and random cool trivia.
 
 * [The Late Bronze Age collapse](history/the-late-bronze-age-collapse.md) (17 May 2020)
 * [Geological eons and eras](history/geological-eons-and-eras.md) (1 June 2020)
+
+### Miswcellaneous
+
+* [Voronoi diagram](misc/voronoi-diagram.md) (17 June 2020)
 
 ### Services
 
