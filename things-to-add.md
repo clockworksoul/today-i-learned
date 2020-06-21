@@ -37,3 +37,5 @@
 * https://www.reddit.com/r/golang/comments/h8yqql/just_found_that_golang_has_a_gopher_design_guide/ (June 19)
 
 * https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people?rss=172BB350-0205 (June 19)
+
+* [Flock on Mac](https://github.com/discoteq/flock) (June 21)
