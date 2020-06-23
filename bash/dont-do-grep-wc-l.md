@@ -19,7 +19,7 @@ something | grep -c .   # Notice that . is better than '..*'
 or even (if all we want to do is check whether something produced any non-empty output lines)
 
 ```bash
-	something | grep . >/dev/null && ...
+something | grep . >/dev/null && ...
 ```
 
 (or `grep -q` if your grep has that).
