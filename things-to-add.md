@@ -5,6 +5,11 @@
 * [Mocking time and testing event loops in Go](https://dmitryfrank.com/articles/mocking_time_in_go) (24 May 2020)
   
 * [Useless Use of Cat Award](http://porkmail.org/era/unix/award.html) (25 May 2020)
+  * `cat`
+  * `echo`
+  * `kill -9`
+  * `grep | awk and grep | sed`
+  * Backticks
 
 * Thoughts on Scrum [[1]](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)[[2]](https://iism.org/article/agile-scrum-is-not-working-51) (26 May 2020)
 

@@ -18,6 +18,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [One-liner to calculate the md5sum of a Linux path](bash/md5sum-of-a-path.md) (7 May 2020)
 * [Safer bash scripts with `set -euxo pipefail`](bash/pipefail.md) (14 May 2020)
 * [Ring the audio bell](bash/ring-the-audio-bell.md) (18 May 2020)
+* [Don't do `grep | wc -l`](bash/dont-do-grep-wc-l.md) (25 May 2020)
+* [A generalized single-instance bash script](bash/a-generalized-single-instance-script.md) (23 June 2020)
 
 ### Containers
 
