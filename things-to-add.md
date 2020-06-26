@@ -43,3 +43,4 @@
 
 * https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people?rss=172BB350-0205 (19 June 2020)
 
+* https://github.com/Mastercard/terraform-provider-restapi (26 June 2020)
