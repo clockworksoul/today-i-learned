@@ -23,7 +23,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 ### Calculations and Estimations
 
-* [Back-of-the-envelope estimation hacks](est/back-of-the-envelope-estimation.md) (25 May 2020)
+* [Approximate with powers](est/approximate-with-powers.md) (25 May 2020)
+* [Ballpark I/O performance figures](est/ballpark-io-performance-figures.md) (25 May 2020)
+* [Little's Law](est/littles-law.md) (25 May 2020)
+* [Rule of 72](est/rule-of-72.md) (25 May 2020)
 * [Calculating IOPS](est/calculating-iops.md) (21 June 2020)
 * [π seconds is a nanocentury](est/pi-seconds-is-a-nanocentury.md) (22 June 2020)
 
