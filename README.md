@@ -21,6 +21,12 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Don't do `grep | wc -l`](bash/dont-do-grep-wc-l.md) (25 May 2020)
 * [A generalized single-instance bash script](bash/a-generalized-single-instance-script.md) (23 June 2020)
 
+### Calculations and Estimations
+
+* [Back-of-the-envelope estimation hacks](est/back-of-the-envelope-estimation.md) (25 May 2020)
+* [Calculating IOPS](est/calculating-iops.md) (21 June 2020)
+* [π seconds is a nanocentury](est/pi-seconds-is-a-nanocentury.md) (22 June 2020)
+
 ### Consul
 
 * [Ingress Gateways](consul/ingress-gateways.md) (18 June 2020)
@@ -59,10 +65,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 ### Miscellaneous
 
 * [Install and set up the Hugo static site generator](misc/hugo-quickstart.md) (7 June 2020)
-* [Back-of-the-envelope estimation hacks](misc/back-of-the-envelope-estimation.md) (25 May 2020)
 * [Chesterton's Fence](misc/chestertons-fence.md) (27 May 2020)
-* [Calculating IOPS](misc/calculating-iops.md) (21 June 2020)
-* [π seconds is a nanocentury](misc/pi-seconds-is-a-nanocentury.md) (22 June 2020)
 
 ### SSH
 
