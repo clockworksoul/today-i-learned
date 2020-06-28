@@ -43,4 +43,8 @@
 
 * https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people?rss=172BB350-0205 (19 June 2020)
 
+* [Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf) (21 June 2020)
+
+* https://dgraph.io/blog/post/introducing-ristretto-high-perf-go-cache/ (21 June 2020)
+
 * https://github.com/Mastercard/terraform-provider-restapi (26 June 2020)

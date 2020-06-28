@@ -59,6 +59,10 @@ For multi-line AppleScript you can use ¬ as a new line continuation character, 
 
 Examples
 
+Open $HOME in Finder
+
+`osascript -e "tell application \"Finder\" to open (\"${HOME}\" as POSIX file)"`
+
 Display a notificaton:
 
 `osascript -e 'display notification "hello world!"'`

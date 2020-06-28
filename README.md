@@ -25,6 +25,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Non-privileged containers based on the scratch image](containers/non-privileged-containers-based-on-the-scratch-image.md) (15 June 2020)
 
+### Git
+
+* [Using core.excludesFile to define a global git ignore](git/global-git-ignore.md) (26 June 2020)
+
 ### Go
 
 * [Check whether a file exists](go/check-whether-a-file-exists.md) (27 April 2020)
