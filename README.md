@@ -116,7 +116,7 @@ Non-work things: baking, gardening, and random cool trivia.
 * [The Late Bronze Age collapse](history/the-late-bronze-age-collapse.md) (17 May 2020)
 * [Geological eons and eras](history/geological-eons-and-eras.md) (1 June 2020)
 
-### Miswcellaneous
+### Miscellaneous
 
 * [Voronoi diagram](misc/voronoi-diagram.md) (17 June 2020)
 
