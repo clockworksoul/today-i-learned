@@ -45,6 +45,4 @@
 
 * [Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf) (21 June 2020)
 
-* https://dgraph.io/blog/post/introducing-ristretto-high-perf-go-cache/ (21 June 2020)
 
-* https://github.com/Mastercard/terraform-provider-restapi (26 June 2020)

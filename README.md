@@ -33,6 +33,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Check whether a file exists](go/check-whether-a-file-exists.md) (27 April 2020)
 * [Generate a hash from files in a path](go/generating-hash-of-a-path.md) (27 April 2020)
+* [Ristretto: A High-Performance Go Cache](go/a-high-performance-go-cache.md) (21 June 2020)
 
 ### Kubernetes
 
@@ -78,7 +79,8 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Custom Terraform module variable validation rules](terraform/custom-validation-rules.md) (20 May 2020)
 * [Terraform plugin basics](terraform/plugin-basics.md) (3 May 2020)
 * [Terraform provider plugin development](terraform/provider-plugin-development.md) (3 May 2020)
-* [Terraform time provider](terraform/time-provider.md) (15 June 2020)
+* [Terraform provider for generic REST APIs](terraform/rest-provider.md) (26 June 2020)
+* [Terraform provider for time](terraform/time-provider.md) (15 June 2020)
 
 ### TLS/SSL
 
