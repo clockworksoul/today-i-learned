@@ -31,18 +31,13 @@
 
 * https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/ (12 June 2020)
 
-* https://dgraph.io/blog/post/introducing-ristretto-high-perf-go-cache/ (13 June 2020)
-
 * https://josebrowne.com/on-coding-ego-and-attention/ (17 June 2020)
 
-* [Modern Python Dictionaries](https://www.youtube.com/watch?v=npw4s1QTmPg) (17 June 2020)
-
-* https://www.hashicorp.com/blog/ingress-gateways-in-hashicorp-consul-1-8/ (18 June 2020)
+* [Modern Python Dictionaries](hgttps://www.youtube.com/watch?v=npw4s1QTmPg) (17 June 2020)
 
 * https://www.reddit.com/r/golang/comments/h8yqql/just_found_that_golang_has_a_gopher_design_guide/ (19 June 2020)
 
 * https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people?rss=172BB350-0205 (19 June 2020)
 
-* [Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf) (21 June 2020)
-
+* [Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf) (22 June 2020)
 

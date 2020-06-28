@@ -21,6 +21,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Don't do `grep | wc -l`](bash/dont-do-grep-wc-l.md) (25 May 2020)
 * [A generalized single-instance bash script](bash/a-generalized-single-instance-script.md) (23 June 2020)
 
+### Consul
+
+* [Ingress Gateways](consul/ingress-gateways.md) (18 June 2020)
+
 ### Containers
 
 * [Non-privileged containers based on the scratch image](containers/non-privileged-containers-based-on-the-scratch-image.md) (15 June 2020)
@@ -33,7 +37,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Check whether a file exists](go/check-whether-a-file-exists.md) (27 April 2020)
 * [Generate a hash from files in a path](go/generating-hash-of-a-path.md) (27 April 2020)
-* [Ristretto: a high-performance Go cache](go/a-high-performance-go-cache.md) (21 June 2020)
+* [Ristretto: a high-performance Go cache](go/a-high-performance-go-cache.md) (13 June 2020)
 
 ### Kubernetes
 
@@ -58,6 +62,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Back-of-the-envelope estimation hacks](misc/back-of-the-envelope-estimation.md) (25 May 2020)
 * [Chesterton's Fence](misc/chestertons-fence.md) (27 May 2020)
 * [Calculating IOPS](misc/calculating-iops.md) (21 June 2020)
+* [π seconds is a nanocentury](misc/pi-seconds-is-a-nanocentury.md) (22 June 2020)
 
 ### SSH
 
