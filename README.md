@@ -33,7 +33,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Check whether a file exists](go/check-whether-a-file-exists.md) (27 April 2020)
 * [Generate a hash from files in a path](go/generating-hash-of-a-path.md) (27 April 2020)
-* [Ristretto: A High-Performance Go Cache](go/a-high-performance-go-cache.md) (21 June 2020)
+* [Ristretto: a high-performance Go cache](go/a-high-performance-go-cache.md) (21 June 2020)
 
 ### Kubernetes
 
