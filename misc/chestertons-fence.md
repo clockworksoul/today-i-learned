@@ -1,6 +1,6 @@
 # Chesterton's Fence
 
-_Source: [Wikipedia:Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)_
+_Source: [Wikipedia: Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)_
 
 Don't remove something until you know why it was put up in the first place.
 
