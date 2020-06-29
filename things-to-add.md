@@ -41,3 +41,10 @@
 
 * [Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf) (22 June 2020)
 
+* https://aws.amazon.com/kendra/ (25 June 2020)
+
+* Cache-oblivious algorithms [[1]](https://en.m.wikipedia.org/wiki/Cache-oblivious_algorithm)[[2]](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/) (28 June 2020)
+
+* JSON Resume [[1]](https://jsonresume.org)[[2]](https://github.com/jsonresume) (28 June 2020)
+
+* Open Telemetry [[1]](https://opentelemetry.io/)[[2]](https://github.com/open-telemetry/opentelemetry-go/blob/master/README.md)[[3]](https://docs.google.com/presentation/d/1nVhLIyqn_SiDo78jFHxnMdxYlnT0b7tYOHz3Pu4gzVQ/edit?usp=sharing) (29 June 2020)
