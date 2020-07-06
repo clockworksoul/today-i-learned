@@ -50,3 +50,5 @@
 * Open Telemetry [[1]](https://opentelemetry.io/)[[2]](https://github.com/open-telemetry/opentelemetry-go/blob/master/README.md)[[3]](https://docs.google.com/presentation/d/1nVhLIyqn_SiDo78jFHxnMdxYlnT0b7tYOHz3Pu4gzVQ/edit?usp=sharing) (29 June 2020)
 
 * https://github.com/google/pprof (29 June 2020)
+
+* https://golangcode.com/how-to-run-go-tests-with-coverage-percentage/ (6 July 2020)
