@@ -54,3 +54,5 @@
 * https://golangcode.com/how-to-run-go-tests-with-coverage-percentage/ (6 July 2020)
 
 * https://www.hashicorp.com/blog/custom-variable-validation-in-terraform-0-13/ (7 July 2020)
+
+* https://gohugo.io/templates/internal/#google-analytics (7 July 2020)
