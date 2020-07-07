@@ -56,3 +56,5 @@
 * https://www.hashicorp.com/blog/custom-variable-validation-in-terraform-0-13/ (7 July 2020)
 
 * https://gohugo.io/templates/internal/#google-analytics (7 July 2020)
+
+* https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/ (7 July 2020)
