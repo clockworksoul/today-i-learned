@@ -58,3 +58,5 @@
 * https://gohugo.io/templates/internal/#google-analytics (7 July 2020)
 
 * https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/ (7 July 2020)
+
+* https://github.com/gruntwork-io/terratest/pull/569 (8 July 2020)
