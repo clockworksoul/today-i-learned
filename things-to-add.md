@@ -60,3 +60,5 @@
 * https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/ (7 July 2020)
 
 * https://github.com/gruntwork-io/terratest/pull/569 (8 July 2020)
+
+* [Optional values in Terraform objects](https://www.terraform.io/docs/configuration/attr-as-blocks.html#arbitrary-expressions-with-argument-syntax) (8 July 2020)
