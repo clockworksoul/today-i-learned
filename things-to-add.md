@@ -64,3 +64,5 @@
 * [Optional values in Terraform objects](https://www.terraform.io/docs/configuration/attr-as-blocks.html#arbitrary-expressions-with-argument-syntax) (8 July 2020)
 
 * How did I not know about `open .` on a Mac before? (Alvaro pointed it out to me) (10 July 2020)
+
+* `pushd` and `popd` (13 July 2020)
