@@ -66,3 +66,5 @@
 * How did I not know about `open .` on a Mac before? (Alvaro pointed it out to me) (10 July 2020)
 
 * `pushd` and `popd` (13 July 2020)
+
+* https://wulymammoth.github.io/posts/shell-shock/ (16 July 2020)
