@@ -69,4 +69,6 @@
 
 * https://wulymammoth.github.io/posts/shell-shock/ (16 July 2020)
 
+* https://medium.com/learning-the-go-programming-language/writing-modular-go-programs-with-plugins-ec46381ee1a9 (21 July 2020)
+
 * https://golang.org/pkg/net/#FileListener (22 July 2020)
