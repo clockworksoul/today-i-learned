@@ -72,3 +72,5 @@
 * https://medium.com/learning-the-go-programming-language/writing-modular-go-programs-with-plugins-ec46381ee1a9 (21 July 2020)
 
 * https://golang.org/pkg/net/#FileListener (22 July 2020)
+
+* https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme (26 July 2020)
