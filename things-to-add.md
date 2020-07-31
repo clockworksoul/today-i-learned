@@ -74,3 +74,5 @@
 * https://golang.org/pkg/net/#FileListener (22 July 2020)
 
 * https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme (26 July 2020)
+
+* https://linux.die.net/man/1/mktemp (31 July 2020)
