@@ -76,3 +76,9 @@
 * https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme (26 July 2020)
 
 * https://linux.die.net/man/1/mktemp (31 July 2020)
+
+* https://blog.quigley.codes/useful-cli-tools/ (21 September 2020)
+
+* https://aws.amazon.com/solutions/implementations/aws-perspective/ (22 September 2020)
+
+* https://github.com/mingrammer/diagrams (22 September 2020)
