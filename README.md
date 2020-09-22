@@ -71,6 +71,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 * [Install and set up the Hugo static site generator](misc/hugo-quickstart.md) (7 June 2020)
 * [Chesterton's Fence](misc/chestertons-fence.md) (27 May 2020)
+* [Easily Create New Google {Docs|Sheets|Forms|Slideshows}](misc/new-gdocs.md) (22 September 2020)
 
 ### SSH
 
