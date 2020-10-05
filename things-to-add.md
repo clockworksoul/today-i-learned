@@ -81,6 +81,9 @@
 
 * https://aws.amazon.com/solutions/implementations/aws-perspective/ (22 September 2020)
 
-* https://github.com/mingrammer/diagrams (22 September 2020)
+* https://github.com/mingrammer/diagrams (diagrams in Python) (22 September 2020)
+
+* https://github.com/blushft/go-diagrams (diagrams in Go) (27 September 2020)
 
 * https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e (4 October 2020)
+
