@@ -96,3 +96,5 @@
 * https://backstage.io/ (8 October 2020)
 
 * https://www.home-assistant.io/ as a replacement for IFTTT (8 October 2020)
+
+* https://github.com/ulid/spec as UUIDs with timestamps? (8 October 2020)
