@@ -87,3 +87,8 @@
 
 * https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e (4 October 2020)
 
+* https://explainshell.com/ (8 October 2020)
+
+* https://explainshell.com/ (8 October 2020)
+
+* https://learning.oreilly.com/answers/search/ (8 October 2020)
