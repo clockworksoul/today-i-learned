@@ -98,3 +98,5 @@
 * https://www.home-assistant.io/ as a replacement for IFTTT (8 October 2020)
 
 * https://github.com/ulid/spec as UUIDs with timestamps? (8 October 2020)
+
+* https://wa.aws.amazon.com/index.en.html AWS Well-Architected Framework exists (8 October 2020)
