@@ -100,3 +100,5 @@
 * https://github.com/ulid/spec as UUIDs with timestamps? (8 October 2020)
 
 * https://wa.aws.amazon.com/index.en.html AWS Well-Architected Framework exists (8 October 2020)
+
+* https://twitter.com/mjos_crypto/status/1057196529847558147?lang=en Meetings at Antarctica's Troll Base are held in "Troll Time"
