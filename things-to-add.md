@@ -102,3 +102,5 @@
 * https://wa.aws.amazon.com/index.en.html AWS Well-Architected Framework exists (8 October 2020)
 
 * https://twitter.com/mjos_crypto/status/1057196529847558147?lang=en Meetings at Antarctica's Troll Base are held in "Troll Time" (22 October 2020)
+
+* https://tldp.org/LDP/abs/html/process-sub.html (3 November 2020) -- Add this to the list of things I should have known before but never bothered picking up.
