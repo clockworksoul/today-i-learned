@@ -106,3 +106,5 @@
 * MacOS has been using an antique version of Bash from 2007, because that's the last version shipped under GPL2. Later versions use GPL3, which Apple won't ship with. Since MacOS Catalina (released on October 7, 2019) the default shell has been Zsh, which uses the MIT license. (3 November 2020)
 
 * https://tldp.org/LDP/abs/html/process-sub.html (3 November 2020) -- Add this to the list of things I should have known before but never bothered picking up.
+
+* https://www.merriam-webster.com/dictionary/acronym -- Acronyms must be pronounceable. Who knew? (14 January 2021)
