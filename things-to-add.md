@@ -89,8 +89,6 @@
 
 * https://explainshell.com/ (8 October 2020)
 
-* https://explainshell.com/ (8 October 2020)
-
 * https://learning.oreilly.com/answers/search/ (8 October 2020)
 
 * https://backstage.io/ (8 October 2020)
