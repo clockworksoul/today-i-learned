@@ -108,3 +108,5 @@
 * https://www.merriam-webster.com/dictionary/acronym -- Acronyms must be pronounceable. Who knew? (14 January 2021)
 
 * https://warisboring.com/the-british-perfected-the-art-of-brewing-tea-inside-an-armored-vehicle/ (25 Feb 2021)
+
+* `pre-commit` has an `autoupdate` subcommand! (9 March 2021)
