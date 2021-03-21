@@ -111,4 +111,4 @@
 
 * `pre-commit` has an `autoupdate` subcommand! (9 March 2021)
 
-* Some stuff here: https://youtu.be/UeAKTjx_eKA
+* The `dd` command: [1](https://linuxconfig.org/how-dd-command-works-in-linux-with-examples) [2](https://youtu.be/UeAKTjx_eKA) (21 March 2021)
