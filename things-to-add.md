@@ -110,3 +110,5 @@
 * https://warisboring.com/the-british-perfected-the-art-of-brewing-tea-inside-an-armored-vehicle/ (25 Feb 2021)
 
 * `pre-commit` has an `autoupdate` subcommand! (9 March 2021)
+
+* Some stuff here: https://youtu.be/UeAKTjx_eKA
