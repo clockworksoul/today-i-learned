@@ -112,3 +112,5 @@
 * `pre-commit` has an `autoupdate` subcommand! (9 March 2021)
 
 * The `dd` command: [1](https://linuxconfig.org/how-dd-command-works-in-linux-with-examples) [2](https://youtu.be/UeAKTjx_eKA) (21 March 2021)
+
+* [IOPS per Amazon EBS volume types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html) (26 March 2021)
