@@ -10,6 +10,10 @@ Behold my periodic learnings, and judge me for my ignorance.
 
 "Worky" things. Mostly (or entirely) technical and team leadership learnings.
 
+### AWS
+
+* [Amazon EBS volume type details](aws/aws-volume-types.md) (21 March 2021)
+
 ### Bash
 
 * [Bash shell prompts](bash/bash-shell-prompts.md) (6 May 2020)
