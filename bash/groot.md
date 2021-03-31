@@ -6,4 +6,4 @@ _Source: My friend Alex Novak_
 cd `git rev-parse --show-toplevel`
 ```
 
-I keep this aliased as `groot` and use it very very frequently when moving through a codebase.
+I keep this aliased as `groot` and use it very frequently when moving through a codebase.
