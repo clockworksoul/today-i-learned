@@ -126,6 +126,7 @@ Non-work things: baking, gardening, and random cool trivia.
 
 ### Miscellaneous
 
+* ["Button up" vs "button down"](misc/buttons.md) (6 May 2021)
 * [Converting a YouTube video to a Zoom background](misc/convert-youtube-video-to-zoom-background.md) (23 April 2020)
 * [Voronoi diagram](misc/voronoi-diagram.md) (17 June 2020)
 
