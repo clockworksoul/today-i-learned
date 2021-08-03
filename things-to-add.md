@@ -111,6 +111,6 @@
 
 * `pre-commit` has an `autoupdate` subcommand! (9 March 2021)
 
-* The `dd` command: [1](https://linuxconfig.org/how-dd-command-works-in-linux-with-examples) [2](https://youtu.be/UeAKTjx_eKA) (21 March 2021)
+* The `dd` command [[1]](https://linuxconfig.org/how-dd-command-works-in-linux-with-examples)[[2]](https://youtu.be/UeAKTjx_eKA) (21 March 2021)
 
-* Syncing a git fork with its upstream repo [1](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) [2](https://raw.githubusercontent.com/github/docs/main/content/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork.md) [3](https://gist.github.com/clockworksoul/1029ce118194d8662d4e8b7d21652f00) (27 July 2021)
+* Syncing a git fork with its upstream repo [[1]](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)[[2]](https://raw.githubusercontent.com/github/docs/main/content/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork.md)[[3]](https://gist.github.com/clockworksoul/1029ce118194d8662d4e8b7d21652f00) (27 July 2021)
