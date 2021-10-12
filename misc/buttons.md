@@ -1,4 +1,4 @@
-Source: My friend Jeff Goldschrafe told me ([verified here](https://www.primermagazine.com/2020/learn/button-up-vs-button-down-shirt-difference))
+_Source: My friend Jeff Goldschrafe told me ([verified here](https://www.primermagazine.com/2020/learn/button-up-vs-button-down-shirt-difference))_
 
 # "Button up" vs "button down" shirts
 
