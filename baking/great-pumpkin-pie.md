@@ -2,7 +2,6 @@
 
 _Source: Combination of [Sally's Baking Addition: The Great Pumpkin Pie Recipe](https://sallysbakingaddiction.com/the-great-pumpkin-pie-recipe/) and [The Perfect Pie](https://smile.amazon.com/Perfect-Pie-Ultimate-Classic-Galettes/dp/1945256915/ref=sr_1_1_)_
 
-<!-- ![Great Pumpkin Pie](great-pumpkin-pie.jpeg) -->
 <img src="great-pumpkin-pie.jpg" alt="great-pumpkin-pie" width="400"/>
 
 * Prep Time: 45 minutes
