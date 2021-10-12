@@ -8,6 +8,6 @@ There is a difference!
 
 * A ***button down shirt***  has buttons on the collar points that you can, well, button down.
 
-![A button up shirt](https://www.primermagazine.com/wp-content/uploads/2020/07/button-up-shirt-4.jpg)
+![A button up shirt](buttons-1.jpg)
 
-![A button down shirt](https://www.primermagazine.com/wp-content/uploads/2020/07/button-down-vs-button-up.jpg)
+![A button down shirt](buttons-2.jpg)
