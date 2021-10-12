@@ -114,6 +114,7 @@ Non-work things: baking, gardening, and random cool trivia.
 * [Banana bread recipe - 2lb loaf (Bread Machine)](baking/banana-bread.md) (23 April 2020)
 * [Perfect Pie Crust](baking/perfect-pie-crust.md) (7 March 2021)
 * [The Best Chocolate Chip Cookie Recipe Ever](baking/best-chocolate-chip-cookies.md) (9 May 2020)
+* [The Great Pumpkin Pie Recipe](baking/great-pumpkin-pie.md) (12 October 2021)
 
 ### Gardening
 

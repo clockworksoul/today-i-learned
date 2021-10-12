@@ -11,9 +11,10 @@ This recipe provides enough for a double crust pie. If you only need one crust, 
 
 * 2 1/2 cups (315g) **all-purpose flour** (spoon & leveled)
 * 1 teaspoon **salt**
+* 2 tablespoons **sugar**
 * 6 tablespoons (90g) **unsalted butter**, chilled and cubed
 * 3/4 cup (148g) **vegetable shortening**, chilled
-* 1/2 cup of **ice water**
+* 1/2 cup of **ice water**, plus extra as needed
 
 ## Instructions
 
