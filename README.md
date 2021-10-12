@@ -105,7 +105,7 @@ Behold my periodic learnings, and judge me for my ignorance.
 * [Anatomy of a TLS+SSL certificate](tls+ssl/dissecting-an-ssl-cert.md) (6 May 2020)
 * [Using Hashicorp Vault to build a certificate authority (CA)](tls+ssl/use-vault-as-a-ca.md) (6 May 2020)
 
-## Non-work Things
+## Non-Technical Things
 
 Non-work things: baking, gardening, and random cool trivia.
 
