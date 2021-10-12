@@ -9,4 +9,4 @@ _Source: Lauren told me about this. Also:
 
 The term originated with a 2014 strip of the webcomic Wondermark by David Malki, where a character expresses a dislike of sea lions and a sea lion intrudes to repeatedly ask the character to explain. "Sea lion" was quickly verbed, the term gained popularity as a way to describe online trolling, and it was used to describe some of the behavior of those participating in the Gamergate controversy.
 
-![Sealioning](https://pbs.twimg.com/media/Bx4X9zCCAAEf0sH.png)
+![Sealioning](sealioning.png)

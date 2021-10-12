@@ -58,7 +58,7 @@ In this guide, you are going to first generate a self-signed root certificate. T
 
 Each step will be illustrated in using the CLI commands. See the original source for API calls with cURL or the Web UI.
 
-![Overview](https://d33wubrfki0l68.cloudfront.net/978749a7055b7b42297fcecd82366bf4421a7de2/7cfef/img/vault-pki-4.png)
+![Overview](use-vault-as-a-ca.png)
 
 In this guide, you will perform the following:
 

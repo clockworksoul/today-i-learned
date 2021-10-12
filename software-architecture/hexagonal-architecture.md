@@ -28,7 +28,7 @@ This can be illustrated by breaking the architecture down as follows:
 * The **drivers** can be anything that triggers an interaction with the application, such as a user.
 * The **driven actors** can be anything the application triggers an interaction with, such as a database.
 
-![Figure 1](https://eskavision.com/wp-content/uploads/2020/04/figure1.png)
+![Figure 1](hexagonal-architecture.png)
 
 ### The Hexagon
 

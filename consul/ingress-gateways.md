@@ -4,7 +4,7 @@ _Source: [Ingress Gateways in HashiCorp Consul 1.8](https://www.hashicorp.com/bl
 
 Consul ingress gateways provide an easy and secure way for external services to communicate with services inside the Consul service mesh.
 
-![Consul Ingress Gateway](https://www.datocms-assets.com/2885/1592432846-ingress-gateways-aws.png?w=500)
+![Consul Ingress Gateway](ingress-gateways.png)
 
 Using the Consul CLI or our Consul Kubernetes Helm chart you can easily set up multiple instances of ingress gateways and configure and secure traffic flows natively via our Layer 7 routing and intentions features.
 
