@@ -121,3 +121,5 @@
   * Maybe something about setting colors and titles and how tempermental the results can be?
  
 * Image processing in Go [[1]](https://golangdocs.com/golang-image-processing) (12 Nov 2021)
+
+* [Sumer](https://en.wikipedia.org/wiki/Sumer), [Assyria](https://en.wikipedia.org/wiki/Assyria), and other ancient cultures ([Maykop Culture](https://en.wikipedia.org/wiki/Maykop_culture), [Cucuteni-Trypillia Culture](https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture), etc) (15 Nov 2021) - Maybe put together a timeline?
