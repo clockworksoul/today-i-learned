@@ -115,6 +115,8 @@
 
 * Syncing a git fork with its upstream repo [[1]](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)[[2]](https://raw.githubusercontent.com/github/docs/main/content/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork.md)[[3]](https://gist.github.com/clockworksoul/1029ce118194d8662d4e8b7d21652f00) (27 July 2021)
 
+* Creating a Git plugin is fun and easy! [[1]](https://gist.github.com/clockworksoul/1029ce118194d8662d4e8b7d21652f00) (3 August 2021)
+
 * Slack formatting with blocks [[1]](https://api.slack.com/block-kit) (1 Nov 2021)
   * Maybe something about setting colors and titles and how tempermental the results can be?
  
