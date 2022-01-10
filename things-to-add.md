@@ -125,3 +125,5 @@
 * [Sumer](https://en.wikipedia.org/wiki/Sumer), [Assyria](https://en.wikipedia.org/wiki/Assyria), and other ancient cultures ([Maykop Culture](https://en.wikipedia.org/wiki/Maykop_culture), [Cucuteni-Trypillia Culture](https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture), etc) (15 Nov 2021) - Maybe put together a timeline?
 
 * RabbitMQ [quorum queues](https://www.rabbitmq.com/quorum-queues.html) (what are the pros/cons/failure modes?) (23 Nov 2021)
+
+* The bash `<<<` operator [is a thing](https://www.gnu.org/software/bash/manual/html_node/Redirections.html) (10 Jan 2022)
