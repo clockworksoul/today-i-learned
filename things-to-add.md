@@ -128,4 +128,4 @@
 
 * The bash `<<<` operator [is a thing](https://www.gnu.org/software/bash/manual/html_node/Redirections.html) (10 Jan 2022)
 
-* https://mermaid-js.github.io/ 
+* Mermaid [is a thing](https://mermaid-js.github.io/ ) (9 Feb 2022)
