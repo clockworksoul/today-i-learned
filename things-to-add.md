@@ -129,3 +129,5 @@
 * The bash `<<<` operator [is a thing](https://www.gnu.org/software/bash/manual/html_node/Redirections.html) (10 Jan 2022)
 
 * Mermaid [is a thing](https://mermaid-js.github.io/ ) (9 Feb 2022)
+
+* nping (part of nmap suite) [is a thing](https://nmap.org/nping/) (23 Feb 2022)
