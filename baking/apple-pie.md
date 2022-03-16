@@ -14,7 +14,7 @@ The original recipe produces a pie that's delicious, but runny and somewhat unde
 * 1/4 teaspoon **nutmeg**
 * 6 to 7 cups thinly sliced peeled **tart apples** (Granny Smith, maybe some sweet, crisp apples like Golden Delicious thrown in, work great)
 * 1 tablespoon **lemon juice**
-* **Dough for double-crust pie** ([this recipe](perfect-pie-crust) works great)
+* **Dough for double-crust pie** ([this recipe](perfect-pie-crust.md) works great)
 * 1 tablespoon **butter**
 * 1 large **egg**
 * Additional **sugar**
