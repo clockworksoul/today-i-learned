@@ -11,7 +11,7 @@ time = 72 / rate
 For example, let’s say the traffic to your web service is increasing by approximately 10% weekly, how long will it take to double?
 
 ```
-time = 17 / 10 = 7.2
+time = 72 / 10 = 7.2
 ```
 
 It will take approximately 7 weeks for the traffic to double.
