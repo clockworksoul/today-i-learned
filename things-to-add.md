@@ -131,3 +131,5 @@
 * Mermaid [is a thing](https://mermaid-js.github.io/ ) (9 Feb 2022)
 
 * `nping` (part of nmap suite) [is a thing](https://nmap.org/nping/) (23 Feb 2022)
+
+* Prometheus supports [envvar expansion in external labels](https://prometheus.io/docs/prometheus/latest/feature_flags/#expand-environment-variables-in-external-labels) [1](https://www.lisenet.com/2021/use-external-labels-with-prometheus-alerts/) (30 Jan 2023)
